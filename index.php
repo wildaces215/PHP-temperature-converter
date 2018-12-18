@@ -16,7 +16,7 @@
 <input type="number" name="cel" />
 <button class="btn btn-primary">Submit!</button>
 </form>
-<form action="faren.php" method="post">
+<form action="fahrenheit.php" method="post">
 <h1>Please enter a Farenheit temperature to convert to celius</h1>
 <input type="number" name="fahreneheit"/>
 <button class="btn btn-primary">Convert</button>
